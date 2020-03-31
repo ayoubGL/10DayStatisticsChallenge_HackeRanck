@@ -1,4 +1,4 @@
-# The quatiles: Q_1, Q_2(median), Q_3, the quartiles helps us to construct the boxplot for our data, thus detective  the outliers :) :)
+# The quartiles: Q_1, Q_2(median), Q_3, the quartiles helps us to construct the boxplot for our data, thus detective  the outliers :) :)
 
 # we use the meadin function  from statistics model
 from statistics import median
